@@ -1,0 +1,6 @@
+com/progressoft/abusair/UserRepository.class
+com/progressoft/abusair/KogitoApplication.class
+com/progressoft/abusair/IUserDao.class
+com/progressoft/abusair/NullArgumentException.class
+com/progressoft/abusair/UserDao.class
+com/progressoft/abusair/User.class
